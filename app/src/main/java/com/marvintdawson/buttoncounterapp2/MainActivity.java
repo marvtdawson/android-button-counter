@@ -6,6 +6,10 @@ import android.widget.EditText;
 import android.widget.Button;
 import android.widget.TextView;
 
+/**
+ * With Tim Buchalka
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private EditText editText;
