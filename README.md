@@ -3,12 +3,12 @@
 ![](resources/java_jouney_series_spring5_guess_the_number_game_application.jpeg)
 
 The Java Journey ANDROID Series is my learning path to Java mastery.  It consist of a series of Java applications
-created using the Java programming language and various tools and frameworks.
+created using Android Studio and the Java programming language.
 
 ## Java & Android: Button Counter Application
 
-The Guess The Number Game application is console based game.  This application based on a
-Udemy course titled "Java Spring Tutorial Masterclass - Learn Spring Framework 5" developed by Tim Buchalka.
+The Calculator App is the first project in the series introduction for building Android & Java mobile applications.  This application based on a
+Udemy course titled "Android Java Masterclass" developed by Tim Buchalka.
 
 #### This project was developed with:
 
